@@ -19,15 +19,15 @@ I am a Full Stack Developer working as a Software Developer with a passion for b
 ## Technologies
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML" width="45px" height="45px">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS" width="45px" height="45px">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="45px" height="45px">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" width="45px" height="45px">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" alt="Express" width="45px" height="45px">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" alt="MongoDB" width="45px" height="45px">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" alt="SQL" width="45px" height="45px">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" alt="Next.js" width="45px" height="45px">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript" width="45px" height="45px">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="Docker" width="45px" height="45px">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" alt="Tailwind CSS" width="45px" height="45px">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML" width="45px" height="45px" style="background-color:#E34F26; padding:10px; border-radius:8px;">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS" width="45px" height="45px" style="background-color:#1572B6; padding:10px; border-radius:8px;">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="45px" height="45px" style="background-color:#F7DF1E; padding:10px; border-radius:8px;">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" width="45px" height="45px" style="background-color:#339933; padding:10px; border-radius:8px;">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" alt="Express" width="45px" height="45px" style="background-color:#000000; padding:10px; border-radius:8px;">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" alt="MongoDB" width="45px" height="45px" style="background-color:#47A248; padding:10px; border-radius:8px;">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" alt="SQL" width="45px" height="45px" style="background-color:#003B57; padding:10px; border-radius:8px;">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" alt="Next.js" width="45px" height="45px" style="background-color:#000000; padding:10px; border-radius:8px;">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript" width="45px" height="45px" style="background-color:#3178C6; padding:10px; border-radius:8px;">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="Docker" width="45px" height="45px" style="background-color:#2496ED; padding:10px; border-radius:8px;">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" alt="Tailwind CSS" width="45px" height="45px" style="background-color:#38B2AC; padding:10px; border-radius:8px;">
 </p>
