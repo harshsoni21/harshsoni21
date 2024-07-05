@@ -14,7 +14,7 @@ I am a Full Stack Developer working as a Software Developer with a passion for b
 - **Backend:** Node.js, Express
 - **Databases:** MongoDB, SQL
 - **Others:** TypeScript, Docker
-- **DSA in C++:** [GeeksforGeeks]([https://www.geeksforgeeks.org](https://www.geeksforgeeks.org/user/harshsoni9119/)), [Code-Studio](https://www.naukri.com/code360/profile/harshsoni),[Leetcode](https://leetcode.com/u/harshsoni9119/)
+- **DSA in C++:** [GeeksforGeeks]([https://www.geeksforgeeks.org](https://www.geeksforgeeks.org/user/harshsoni9119/), [Code-Studio](https://www.naukri.com/code360/profile/harshsoni),[Leetcode](https://leetcode.com/u/harshsoni9119/)
 
 ## Technologies
 <p align="left">
