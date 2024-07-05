@@ -1,6 +1,6 @@
 # Hi there 👋
 
-👨🏼‍🎓 Hi! I’m Harsh Soni. 
+👨🏼‍🎓 Hi! I’m Harsh Soni.  
 👯 I’m looking to collaborate on any full stack projects.  
 📫 How to reach me:  
 Gmail: harshsoni9119@gmail.com  
@@ -14,10 +14,10 @@ I am a Full Stack Developer working as a Software Developer with a passion for b
 - **Backend:** Node.js, Express
 - **Databases:** MongoDB, SQL
 - **Others:** TypeScript, Docker
-- **DSA in C++:** [GeeksforGeeks]([https://www.geeksforgeeks.org](https://www.geeksforgeeks.org/user/harshsoni9119/), [Code-Studio](https://www.naukri.com/code360/profile/harshsoni),[Leetcode](https://leetcode.com/u/harshsoni9119/)
+- **DSA in C++:** [GeeksforGeeks](https://www.geeksforgeeks.org/user/harshsoni9119/), [CodeStudio](https://www.naukri.com/code360/profile/harshsoni), [LeetCode](https://leetcode.com/u/harshsoni9119/)
 
 ## Technologies
-<p align="left">
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML" width="45px" height="45px">
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS" width="45px" height="45px">
@@ -31,4 +31,3 @@ I am a Full Stack Developer working as a Software Developer with a passion for b
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="Docker" width="45px" height="45px">
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" alt="Tailwind CSS" width="45px" height="45px">
 </p>
-
