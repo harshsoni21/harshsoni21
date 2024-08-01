@@ -18,8 +18,8 @@ I am a Full Stack Developer working as a Software Developer with a passion for b
 
 ## Technologies
 
-<p align="left" style = "gap:10px;">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML" width="45px" height="45px" style="background-color:#E34F26; padding:10px; border-radius:20px;">
+<p align="left" style = "gap:20px;">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML" width="45px" height="45px" style="background-color:#E34F26; padding:10px; border-radius:50px;">
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS" width="45px" height="45px" style="background-color:#1572B6; padding:10px; border-radius:8px;">
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="45px" height="45px" style="background-color:#F7DF1E; padding:10px; border-radius:8px;">
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" width="45px" height="45px" style="background-color:#339933; padding:10px; border-radius:8px;">
