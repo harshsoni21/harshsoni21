@@ -18,8 +18,9 @@ Previously at **Luneblaze**, I contributed to a SaaS platform for educational ac
 ---
 
 ## Key Highlights 💡
-- Built a **Text2SQL Query Engine** with 88%+ accuracy, using multi-model integration and an Intent Classifier to route between RAG and SQL queries.  
-- Developed a **Response Refining Tool** that improved readability and user satisfaction by 25%.  
+- Built **Agentic RAG**, **ConvForm**, and **ConvCall** as AI agents for intelligent conversational workflows.  
+- Built a **Text2SQL Query Engine** using multi-model integration and an Intent Classifier to route between RAG and SQL queries.  
+- Developed a **Response Refining Tool** that improved readability and user satisfaction.  
 - Created **FileSewa**, a secure file-sharing service with real-time access management.  
 - Engineered **Agentic RAG microservices** connecting unstructured data with knowledge graphs via Hugging Face and Ollama.  
 
@@ -34,7 +35,7 @@ C++, Python, JavaScript
 SQL, PostgreSQL, MongoDB, Redis, Neo4J (Graph Database)  
 
 ### AI / ML Frameworks
-LlamaIndex, LangChain, LangGraph, MCP, Ollama  
+LlamaIndex, LangChain, LangGraph, Ollama  
 
 ### Backend & Additional
 Django, Node.js, Docker, AWS (Basic), GitHub, Linux  
@@ -72,4 +73,4 @@ Data Structure and Algorithm, Operating System, DBMS, Computer Network
 
 🌱 I’m actively exploring opportunities in **Backend Engineering** and **GenAI systems**, designing **scalable APIs, distributed services, and AI-driven workflows**.  
 
-📄 Resume: [View here](https://drive.google.com/file/d/1Ok4jLuaWF9zFC436rTblWbpr5sVQSPgX/view?usp=sharing)  
+📄 Resume: [View here](https://drive.google.com/file/d/1Ok4jLuaWF9zFC436rTblWbpr5sVQSPgX/view?usp=sharing)
